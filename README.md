@@ -1,6 +1,6 @@
 # Nuxt PocketBase
 
-### WIP - Active devlopement
+### WIP - Active Devlopement
 
 The aim is to create a plug and use Nuxt module for PocketBase
 
